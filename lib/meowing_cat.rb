@@ -1,2 +1,3 @@
 ## code your solution here. 
-class cat
+class Cat
+  maru = Cat.new
