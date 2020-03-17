@@ -6,4 +6,5 @@ class Cat
      put "meow!"
    
    end
+
  end
